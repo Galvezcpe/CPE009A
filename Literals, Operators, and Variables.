@@ -1,0 +1,146 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Galvezcpe/CPE009A/blob/main/Literals%2C%20Operators%2C%20and%20Variables.\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "**Suplementary Activity**"
+      ],
+      "metadata": {
+        "id": "ST6WBUbi98re"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "value = 5\n",
+        "print(value)"
+      ],
+      "metadata": {
+        "id": "7-QWdGVP9FQ1",
+        "outputId": "c803040b-7387-45b4-9ac7-b9d5654ba317",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 6,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "5\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "type(value)"
+      ],
+      "metadata": {
+        "id": "pUMzeq0L9SW_",
+        "outputId": "2bdbfa5b-f101-4960-95ea-2662b2a3590c",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 7,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "int"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 7
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "value = 5.0\n",
+        "print(value)"
+      ],
+      "metadata": {
+        "id": "CwNdJxsa9T8U",
+        "outputId": "8ce9b4de-8fe0-48b4-becd-6bd35868feda",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 8,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "5.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "type(value)"
+      ],
+      "metadata": {
+        "id": "PZFpDbvA9XAs",
+        "outputId": "31552da1-daf8-4aa4-9c5b-960b36c005fe",
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        }
+      },
+      "execution_count": 9,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "float"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 9
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "Rmv5XEcz9YvJ"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Welcome To Colab",
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
